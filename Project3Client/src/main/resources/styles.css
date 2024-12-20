@@ -1,0 +1,36 @@
+#borderPane{
+    -fx-background-color: #008B59;
+}
+
+#welcomeText{
+    -fx-font-size: 36;
+    -fx-fill: white;
+    -fx-alignment: left;
+}
+
+#usernameField{
+    -fx-pref-width: 400px;
+    -fx-pref-height: 150px;
+    -fx-font-size: 25px;
+}
+#bBox{
+    -fx-padding: 250;
+    -fx-spacing: 140;
+}
+
+.button{
+    -fx-pref-width: 250px;
+    -fx-pref-height:100px;
+    -fx-text-fill: #35654d;
+    -fx-font-family: Verdana;
+    -fx-font-size: 25;
+    -fx-border-color: #b78e63;
+    -fx-border-width: 5;
+}
+#nameConnect{
+    -fx-padding: 150;
+    -fx-spacing: 340;
+}
+#loginVbox{
+    -fx-padding: 100px;
+}
